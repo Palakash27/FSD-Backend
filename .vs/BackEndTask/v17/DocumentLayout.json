@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\data\\excelprocessordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\data\\excelprocessordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\repositories\\clickzonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\repositories\\clickzonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\repositories\\zonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\repositories\\zonerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\controllers\\exceluploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\controllers\\exceluploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\controllers\\calculateclickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\controllers\\calculateclickcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\repositories\\calculateclickrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\repositories\\calculateclickrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\dtos\\zoneclickcountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\dtos\\zoneclickcountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\dtos\\responseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\dtos\\responseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\services\\calculateclickservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\services\\calculateclickservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\data\\entities\\clickzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\data\\entities\\clickzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\data\\entities\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\data\\entities\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|c:\\users\\palak\\downloads\\fsd\\fsd test\\backend\\backendtask\\repositories\\icalculateclickrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7CE81A-A415-4B90-9A8D-C41B4517ADA8}|BackEndTask\\BackEndTask.csproj|solutionrelative:backendtask\\repositories\\icalculateclickrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\appsettings.json",
+              "RelativeDocumentMoniker": "BackEndTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\appsettings.json",
+              "RelativeToolTip": "BackEndTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T05:00:12.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalculateClickService.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Services\\CalculateClickService.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\Services\\CalculateClickService.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Services\\CalculateClickService.cs",
+              "RelativeToolTip": "BackEndTask\\Services\\CalculateClickService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:21:30.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExcelProcessorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Data\\ExcelProcessorDbContext.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\Data\\ExcelProcessorDbContext.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Data\\ExcelProcessorDbContext.cs",
+              "RelativeToolTip": "BackEndTask\\Data\\ExcelProcessorDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA2wBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:49:15.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculateClickController.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Controllers\\CalculateClickController.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\Controllers\\CalculateClickController.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Controllers\\CalculateClickController.cs",
+              "RelativeToolTip": "BackEndTask\\Controllers\\CalculateClickController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:13:44.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Program.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\Program.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Program.cs",
+              "RelativeToolTip": "BackEndTask\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:41:39.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZoneRepository.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Repositories\\ZoneRepository.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\Repositories\\ZoneRepository.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Repositories\\ZoneRepository.cs",
+              "RelativeToolTip": "BackEndTask\\Repositories\\ZoneRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAWwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:57:22.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClickZoneRepository.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Repositories\\ClickZoneRepository.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\Repositories\\ClickZoneRepository.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Repositories\\ClickZoneRepository.cs",
+              "RelativeToolTip": "BackEndTask\\Repositories\\ClickZoneRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:10:52.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculateClickRepository.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Repositories\\CalculateClickRepository.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\Repositories\\CalculateClickRepository.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Repositories\\CalculateClickRepository.cs",
+              "RelativeToolTip": "BackEndTask\\Repositories\\CalculateClickRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwC4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:31:10.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExcelUploadController.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Controllers\\ExcelUploadController.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\Controllers\\ExcelUploadController.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Controllers\\ExcelUploadController.cs",
+              "RelativeToolTip": "BackEndTask\\Controllers\\ExcelUploadController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wCIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:11:19.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZoneClickCountDTO.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\DTOs\\ZoneClickCountDTO.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\DTOs\\ZoneClickCountDTO.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\DTOs\\ZoneClickCountDTO.cs",
+              "RelativeToolTip": "BackEndTask\\DTOs\\ZoneClickCountDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:13:04.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\DTOs\\ResponseInfo.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\DTOs\\ResponseInfo.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\DTOs\\ResponseInfo.cs",
+              "RelativeToolTip": "BackEndTask\\DTOs\\ResponseInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:21:53.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClickZone.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Data\\Entities\\ClickZone.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\Data\\Entities\\ClickZone.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Data\\Entities\\ClickZone.cs",
+              "RelativeToolTip": "BackEndTask\\Data\\Entities\\ClickZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:42:18.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Zone.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Data\\Entities\\Zone.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\Data\\Entities\\Zone.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Data\\Entities\\Zone.cs",
+              "RelativeToolTip": "BackEndTask\\Data\\Entities\\Zone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:42:34.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICalculateClickRepository.cs",
+              "DocumentMoniker": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Repositories\\ICalculateClickRepository.cs",
+              "RelativeDocumentMoniker": "BackEndTask\\Repositories\\ICalculateClickRepository.cs",
+              "ToolTip": "C:\\Users\\palak\\Downloads\\FSD\\FSD Test\\Backend\\BackEndTask\\Repositories\\ICalculateClickRepository.cs",
+              "RelativeToolTip": "BackEndTask\\Repositories\\ICalculateClickRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T03:30:57.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
